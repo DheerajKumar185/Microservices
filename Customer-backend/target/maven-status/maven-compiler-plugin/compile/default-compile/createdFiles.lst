@@ -1,0 +1,4 @@
+com\tech\doks\rest\CustomerRest.class
+com\tech\doks\Application.class
+com\tech\doks\ApplicationConfig.class
+com\tech\doks\ApplicationConfig$JerseyConfig.class
